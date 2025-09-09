@@ -1,3 +1,4 @@
 aiogram==2.25.1
 requests
 yt-dlp
+aiohttp==3.9.5 --only-binary=:all:
