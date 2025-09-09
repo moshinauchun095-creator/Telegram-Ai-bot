@@ -1,4 +1,4 @@
 aiogram==2.25.1
 requests
 yt-dlp
-aiohttp==3.8.6 --only-binary=:all:
+aiohttp==3.8.6No matching distribution found for aiohttp==3.8.6
